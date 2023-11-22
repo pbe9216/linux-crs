@@ -12,6 +12,7 @@ In this task you will protect srv1 host.
 - Allow established connections
 - Allow ICMP
 - Allow traceroute
+- Restrict outbound traffic (APT, DNS, established)
 - How does this interact with the DHCP server?
 - Check ruleset and if rules are matched
 - Set all base policies to drop
