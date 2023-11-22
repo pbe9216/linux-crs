@@ -1,6 +1,6 @@
 ## Linux firewalling
 
-### Host firewalling nft tables
+### Host firewalling nftables
 In this task you will protect srv1 host.
 - Install nftables
 - Prepare the ruleset
