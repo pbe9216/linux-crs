@@ -1,0 +1,22 @@
+## Linux lab 1 - Network (45 min)
+
+-	Display link information and IP addresses of your system
+-	Display ARP table 
+-	Shut down the VM and add a new interface, boot up the VM
+-	Display the link information. What is your cards' MAC addresses and OUI?
+-	Display advanced card information
+-	Display card network statistics
+-	Display the network device
+-	Display the network driver
+-	Change the mac address of one of your interfaces
+-	Use tcpdump to capture ICMP (execute a ping from another VM)
+-	Build a more precise tcpdump filter to match source, destination and protocol
+-	Show routing table of the system
+-	Add a route in your system. What are the components of route ? 
+-	Turn your system in a router
+-	What are the configuration files for network in Debian, Ubuntu and Centos systems?
+- List listening services and established session
+- Find out associated services with established sessions
+- Trace the path towards google DNS 8.8.8.8
+- Leverage mtr to gather real-time network performance indicators
+- How to test link bandwidth between two hosts?
