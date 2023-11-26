@@ -8,3 +8,7 @@
 - Bandwidth usage.
 - Open files
 - Discuss bottlenecks
+
+Associated labs
+
+- linux-lab04
