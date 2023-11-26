@@ -10,3 +10,7 @@
 - Security Best Practices
 - Nftables and firewalld 
 - Diagnosing Firewall Issues
+
+## Associated labs 
+
+- linux-lab-03
