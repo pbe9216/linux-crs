@@ -5,3 +5,7 @@
 - Filesystems
 - LVM
 - RAID
+
+## Associated labs 
+
+- linux-lab08
